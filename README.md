@@ -227,4 +227,3 @@ In addition to `--help` and the GitHub operation parameters, you can also pass t
 - `--headers`: A list of extra headers to pass, JSON-encoded
 - `--token`: A GitHub authentation token
 - `--debug`: Print requests before sending them
-foobar
